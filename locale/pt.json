@@ -1,0 +1,12 @@
+{
+    "TD Logo": "Logótipo da Talkdesk",
+    "Logout": "Sair",
+    "person": "A pessoa",
+    "person_plural": "As pessoas",
+    "person_female:": "A mulher",
+    "person_male": "O homem",
+    "person_female_plural": "As mulheres",
+    "person_male_plural": "Os homens",
+    "msg": "{{ count }} mensagem",
+    "msg_plural": "{{ count }} mensagens"
+}
