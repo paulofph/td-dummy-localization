@@ -1,0 +1,8 @@
+{
+    "TD Logo": "__STRING_NOT_TRANSLATED__",
+    "person_female": "__STRING_NOT_TRANSLATED__",
+    "newperson": "__STRING_NOT_TRANSLATED__",
+    "msg": "{msg, plural, =1 {<0><0>{{count}}<\/0><\/0> messages} other {<0><0>{{count}}<\/0><\/0> messages}}",
+    "person": "{person, plural, =1 {{count, plural, one {{count} mulher.} other {{count} mulheres.}}} other {__STRING_NOT_TRANSLATED__}}",
+    "person_male": "{person_male, plural, =1 {__STRING_NOT_TRANSLATED__} other {__STRING_NOT_TRANSLATED__}}"
+}
