@@ -1,0 +1,8 @@
+{
+    "TD Logo": "",
+    "person_female": "",
+    "newperson": "",
+    "msg": "{msg, plural, =1 {} other {}}",
+    "person": "{person, plural, =1 {} other {}}",
+    "person_male": "{person_male, plural, =1 {} other {}}"
+}
