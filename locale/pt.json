@@ -1,0 +1,29 @@
+{
+    "TD Logo": "",
+    "person_female": "",
+    "newperson": "",
+    "msg": {
+        "zero": "",
+        "one": "",
+        "two": "",
+        "few": "",
+        "many": "",
+        "other": ""
+    },
+    "person": {
+        "zero": "",
+        "one": "",
+        "two": "",
+        "few": "",
+        "many": "",
+        "other": ""
+    },
+    "person_male": {
+        "zero": "",
+        "one": "",
+        "two": "",
+        "few": "",
+        "many": "",
+        "other": ""
+    }
+}
